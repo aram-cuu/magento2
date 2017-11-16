@@ -1,4 +1,4 @@
-# Contributing to Magento 2 code
+# Contributing to Magento 2 code 
 
 Contributions to the Magento 2 codebase are done using the fork & pull model.
 This contribution model has contributors maintaining their own copy of the forked codebase (which can easily be synced with the main copy). The forked repository is then used to submit a request to the base repository to “pull” a set of changes (hence the phrase “pull request”).
